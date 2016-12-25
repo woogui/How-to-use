@@ -46,6 +46,7 @@
 9. **virtual machine**을 실행하면 다음과 **linux mint**가 실행된다.
 
 	![](http://i.imgur.com/uB5yy2H.png "title" "width:500px;")
+    
     **Install Linux Mint**를 실행한다.
     
 10. 설치마법사 언어를 다음과 같이 한국어로 설정한다.
