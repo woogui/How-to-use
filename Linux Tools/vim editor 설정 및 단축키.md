@@ -19,5 +19,5 @@ set nowrap			"disable word wrap
 4. **vim editor**의 설정이 완료 되었다.
 
 ##vim editor 단축키
-![](http://i.imgur.com/27tjp8j.jpg "title" "width:500px;")
-![](http://i.imgur.com/hfgBIAy.jpg "title" "width:500px;")
+![](http://i.imgur.com/27tjp8j.jpg "width:500px;")
+![](http://i.imgur.com/hfgBIAy.jpg "width:500px;")
