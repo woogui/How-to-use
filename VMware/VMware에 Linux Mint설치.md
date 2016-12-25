@@ -7,11 +7,11 @@
 
 2. **vmware**를 실행한다.
 
-	![](http://i.imgur.com/EUc83Zc.png <img width="500"></img>)
+	<img src="http://i.imgur.com/EUc83Zc.png" style ="width:500; heght:auto">
     
 3. **Create a New Virtual Machine**을 클릭한다.
 
-	![](http://i.imgur.com/K5VrhUD.png <img width="500"></img>)
+	<img src="http://i.imgur.com/K5VrhUD.png " style ="width:500; heght:auto">
     
     **Virtual Machine Wizard**가 실행된다.
     
