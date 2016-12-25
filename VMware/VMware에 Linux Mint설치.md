@@ -17,11 +17,11 @@
     
     ![](http://i.imgur.com/EWoYool.png "title" "width:500px;")
 
-4. **installer isc image file(iso)**를 선택하고 맨처음에 받아두었던 iso파일을 선택한 후 **next**를 클릭한다.
+4. **installer disc image file(iso)**를 선택하고 맨처음에 받아두었던 iso파일을 선택한 후 **next**를 클릭한다.
 
 	![](http://i.imgur.com/TrafA6S.png "title" "width:500px;")
 
-5. **Guest operating system** 항목의 **Linux**를 선택하고 **Version**은 **Ubuntu** 자신의 운영체제에 따라 **32-bit**, **64-bit**를 선택하고 **next**를 클릭한다.
+5. **Guest Operating System** 항목의 **Linux**를 선택하고 **Version**은 **Ubuntu** 자신의 운영체제에 따라 **32-bit**, **64-bit**를 선택하고 **next**를 클릭한다.
 
 	![](http://i.imgur.com/bZQJoHJ.png "title" "width:500px;")
     
@@ -43,7 +43,7 @@
     
     실행시킬 가상머신을 선택하고 **Play virtual machine** 클릭한다.
     
-9. **virtual machine**을 실행하면 다음과 **linux mint**가 실행된다.
+9. **virtual machine**을 실행하면 다음과 **Linux Mint**가 실행된다.
 
 	![](http://i.imgur.com/uB5yy2H.png "title" "width:500px;")
     
@@ -85,4 +85,4 @@
 
 	![](http://i.imgur.com/IxxckAe.png "title" "width:500px;") 
     
-    이로서 linux mint의 설치가 왼료되었다.
+    이로서 Linux Mint의 설치가 왼료되었다.
