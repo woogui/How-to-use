@@ -5,10 +5,10 @@
  1. [Github 홈페이지](http://github.com/)에 들어가 로그인을 한다.
  2. **New repsitories**를 클릭한다.
  3. **Repository name**과 **Description**작성하고 **Public/Private**여부 등을 설정한 후 **Create repository**를 클릭한다.
- 4. ** SourceTree**를 실행하여 다음과 같이 **복제/생성**을 클릭한다.
+ 4. **SourceTree**를 실행하여 다음과 같이 **복제/생성**을 클릭한다.
   ![](http://i.imgur.com/XBFmJe5.png "title" "width:500px;")
 
- 5. 다음 화면이 나오면 **소스경로 / URL **에 **Github**홈폐이지에서 생성했던 **repository**의 URL을 집어 넣는다.
+ 5. 다음 화면이 나오면 **소스경로 / URL**에 **Github**홈폐이지에서 생성했던 **repository**의 URL을 집어 넣는다.
   ![](http://i.imgur.com/LvzPUmd.png "title" "width:500px;")
   그리고 **목적지 경로**를 **빈 폴더**로 설정해준 후 **클론**을 클릭한다.
 
