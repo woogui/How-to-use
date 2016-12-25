@@ -1,7 +1,7 @@
 #VMware에 설치된 Linux Mint 기본 설정
 
 ##VMwareTools 설치
-2. 1. **VMware**를 실행하여 **Linux Mint**가 설치된 **virtual Machine**을 실행한다.
+1. **VMware**를 실행하여 **Linux Mint**가 설치된 **virtual Machine**을 실행한다.
 
 2. 아직 초기설정을 하지 않은 상태라면 VMware실행창 밑에 다음과 같은 창이 붙어있을 것이다.
 	![](http://i.imgur.com/ti4XLSI.png "title" "width:500px;")
